@@ -32,11 +32,9 @@
               <EmptySpace type="separate" max="-2" attributes="0"/>
               <Group type="103" groupAlignment="0" max="-2" attributes="0">
                   <Component id="etiquetaInformacion" pref="236" max="32767" attributes="0"/>
-                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                      <Component id="jButton1" pref="236" max="32767" attributes="0"/>
-                      <Component id="textoNombre" max="32767" attributes="0"/>
-                      <Component id="textoEdad" max="32767" attributes="0"/>
-                  </Group>
+                  <Component id="jButton1" pref="236" max="32767" attributes="0"/>
+                  <Component id="textoNombre" max="32767" attributes="0"/>
+                  <Component id="textoEdad" max="32767" attributes="0"/>
               </Group>
               <EmptySpace pref="55" max="32767" attributes="0"/>
           </Group>
